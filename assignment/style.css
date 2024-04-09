@@ -1,0 +1,18 @@
+body {
+  background-color: gray;
+}
+
+header {
+  background-color: olive;
+  text-align: center;
+}
+
+h2,
+h3 {
+  color: #dba40e;
+  background-color: olive;
+  text-align: center;
+}
+
+img {
+}
